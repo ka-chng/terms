@@ -1,0 +1,30 @@
+
+
+body {
+    background-color: rgb(255, 255, 148);
+}
+
+div {
+    text-align: center;
+}
+
+img {
+    text-align: center;
+    width: 346px;
+    height: 344px;
+}
+
+h1 {
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+    text-align: center;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
